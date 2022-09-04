@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirCarterr
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS - React, C# - Blazor, Web API
+- 🌱 I’m currently learning JS, C# - Blazor, Web API
 - 💞️ I’m looking to collaborate on something to get expirience
 - 📫 How to reach me real work expirience and job
 
