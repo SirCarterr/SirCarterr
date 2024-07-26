@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SirCarterr
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, C# - Blazor, Web API
-- 💞️ I’m looking to collaborate on something to get expirience
-- 📫 How to reach me real work expirience and job
+- 👀 I’m interested in .Net development
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to becoming a Junior .Net Developer
+- 📫 How to reach me: vhyzha10@gmail.com
 
 <!---
 SirCarterr/SirCarterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
