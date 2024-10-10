@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SirCarterr
 - 👀 I’m interested in .Net development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to becoming a Junior .Net Developer
+- 💞️ I’m looking to becoming a stronger Back-end developer
 - 📫 How to reach me: vhyzha10@gmail.com
 
 <!---
